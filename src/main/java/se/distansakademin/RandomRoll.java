@@ -12,6 +12,7 @@ public class RandomRoll {
 
 
     public int randomNumber() {
-        return random.nextInt();
+        var roll = random.nextInt();
+        return roll;
     }
 }

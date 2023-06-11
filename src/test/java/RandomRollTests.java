@@ -17,6 +17,6 @@ public class RandomRollTests {
 
     @Test
     void testRandomNumber(){
-        assert randomRoll.randomNumber() == 0; // TODO: replace 0 with what?
+        assert randomRoll.randomNumber() == -1155869325; // TODO: replace 0 with what?
     }
 }
